@@ -46,7 +46,7 @@
 1. Клонируйте репозиторий:
    ```bash
    git clone <https://github.com/Lux2445/publish>
-   cd <имя папки>
+   cd <my-web-app>
    npm install
    npm run dev
    npm run build
